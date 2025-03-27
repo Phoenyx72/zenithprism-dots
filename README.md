@@ -1,8 +1,17 @@
 //I don't know what I'm doing so give me time and I will try to get dots up! for now just take a couple files people have requested.
 UPDATE: THE DOTS HAVE BEEN UPLOADED! ENJOY
 
-Wallpapers (from unsplash.com)
 
+Screenshots of my config:
+![Image](https://github.com/user-attachments/assets/1271fcaa-904f-4bab-93be-d3746fe8a823)
+![Image](https://github.com/user-attachments/assets/753547f6-2fe4-4c9e-9fdb-01e97f03777e)
+![Image](https://github.com/user-attachments/assets/2567998e-bbb7-4ed6-986f-7bf60bb4d85b)
+![Image](https://github.com/user-attachments/assets/d36fdee5-f571-4860-a534-86cdd278d842)
+![Image](https://github.com/user-attachments/assets/cc6ce83e-28d0-4f51-88f4-23cd59914d40)
+![Image](https://github.com/user-attachments/assets/702d0e42-30aa-4748-8b43-9001a928f4cf)
+
+
+Wallpapers (from unsplash.com):
 aniket-deole-M6XC789HLe8-unsplash.jpg
 ![Image](https://github.com/user-attachments/assets/cdfe13ef-b8dd-40cb-9c3a-c2bb123e1b4b)
 
