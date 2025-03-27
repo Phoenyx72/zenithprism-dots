@@ -12,6 +12,7 @@ Screenshots of my config:
 
 
 Wallpapers (from unsplash.com):
+
 aniket-deole-M6XC789HLe8-unsplash.jpg
 ![Image](https://github.com/user-attachments/assets/cdfe13ef-b8dd-40cb-9c3a-c2bb123e1b4b)
 
