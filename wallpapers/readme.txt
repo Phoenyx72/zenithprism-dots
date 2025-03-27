@@ -1,5 +1,5 @@
 aniket-deole-M6XC789HLe8-unsplash.jpg
-![Screenshot](aniket-deole-M6XC789HLe8-unsplash.jpg)
+![Screenshot](wallpapers/aniket-deole-M6XC789HLe8-unsplash.jpg)
 
 bailey-zindel-NRQV-hBF10M-unsplash.jpg
 ![Screenshot](bailey-zindel-NRQV-hBF10M-unsplash.jpg)
