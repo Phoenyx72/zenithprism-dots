@@ -1,0 +1,5 @@
+---
+client_id: <your-id>
+client_secret: <your-secret>
+device_id: <your-id>
+port: 8888
