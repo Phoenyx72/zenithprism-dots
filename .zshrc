@@ -18,7 +18,7 @@ setopt appendhistory
 eval "$(starship init zsh)"
 
 #Aliases
-alias spotify='spotifyd --no-daemon & ; spt'
+alias spotify='spotify_player'
 alias ls='lsd'
 alias l='ls -l'
 alias la='ls -a'
